@@ -6,13 +6,18 @@
 </head>
 <body>
     MSSV:
+    ${sv1.mssv}
     <br/>
     Ten:
+    ${sv1.ten}
     <br/>
     Tuoi:
+    ${sv1.tuoi}
     <br/>
     Dia chi:
+    ${sv1.diaChi}
     <br/>
     Gioi tinh:
+    ${sv1.gioiTinh}
 </body>
 </html>

@@ -34,10 +34,10 @@
            <td>${sv.diaChi}</td>
            <td>${sv.gioiTinh}</td>
            <td>
-               <button><a href="/sinh-vien/remove/${sv.mssv}">Remove</a></button>
-               <button><a href="/sinh-vien/view-update/${sv.mssv}">Update</a></button>
-               <button><a href=/sinh-vien/detail/${sv.mssv}">Detail</a></button>
-           </td>
+               <a href="/sinh-vien/remove/${sv.mssv}">Remove</a>
+               <a href="/sinh-vien/view-update/${sv.mssv}">Update</a>
+               <a href="/sinh-vien/detail/${sv.mssv}">Detail</a>
+          </td>
            </tr>
        </c:forEach>
 
