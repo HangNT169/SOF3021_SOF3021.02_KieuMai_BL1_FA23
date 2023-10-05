@@ -9,5 +9,6 @@ public interface CategoryService {
     List<Category>getAll();
 
     void add(Category category);
-
+// product ID, cate code, cate name, product name,price
+    // product => Load du lieu table
 }
